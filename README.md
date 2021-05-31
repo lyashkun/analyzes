@@ -1,1 +1,1 @@
-# analyzes
+# goit-hw-6
